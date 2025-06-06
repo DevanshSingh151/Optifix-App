@@ -19,22 +19,5 @@ Organizations targeting entry-level talent
 💡 Why OptiFix?
 Finding internships as a fresher is often confusing and overwhelming. OptiFix simplifies this by offering a centralized, accessible, and beginner-friendly internship portal to help users kickstart their career journey.
 
-📱 Screenshots
-(Include screenshots of your app UI here if possible)
-
-🛠️ Installation
-bash
-Copy
-Edit
-git clone https://github.com/your-username/optifix.git
-cd optifix
-npm install
-npm start
-If using Expo:
-
-bash
-Copy
-Edit
-npx expo start
 🤝 Contributing
 Feel free to open issues, suggest new features, or contribute to improving the app. Every bit of help is appreciated!
